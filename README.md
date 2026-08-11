@@ -1,6 +1,5 @@
-
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Raghul T
+<img align="right" width="250" height="210" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+# Hi, I'm Raghul T
 
 <h3 align="center">Electronics & Communication Engineering Student | Java Developer | AI & Computer Vision Enthusiast</h3>
 
