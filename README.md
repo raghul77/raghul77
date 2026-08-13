@@ -12,7 +12,7 @@
 
 <p>
 
-  <b class="animated-text">ECE Engineer • Java Developer • AI/ML Enthusiast</b>
+  <b class="animated-text">ECE Engineer •  SoftWare Developer • AI/ML Enthusiast</b>
 
 </p>
 
